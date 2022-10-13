@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RBTN 
-- 👀 I’m a pop-culture enthusiast, with extensive knowledge of TV shows and movies, as well as a passion for filmmaking. Because of his knowledge of television tropes
+- 👀 I’m a pop-culture enthusiast, with extensive knowledge of TV shows and movies, as well as a passion for filmmaking.
 - 🌱 I’m currently learning  C /Algorithms
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
